@@ -175,7 +175,7 @@ async function run() {
 
     // ---------------- PROTECTED ROUTE ----------------
 
-    console.log("Connected to MongoDB!");
+    // console.log("Connected to MongoDB!");
   } catch (err) {
     console.error(err);
   }
